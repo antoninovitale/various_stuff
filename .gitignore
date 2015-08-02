@@ -13,3 +13,6 @@ hs_err_pid*
 
 # bin folder
 bin/
+
+# mac ds_store files
+.DS_Store
